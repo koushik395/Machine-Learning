@@ -1,2 +1,2 @@
 # Machine-Learning
-Machine Learning Algorithms
+This Github repo consists of Basic - Machine Learning Algorithms.
